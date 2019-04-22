@@ -8,7 +8,8 @@ namespace AutofacDemo
         static void Main(string[] args)
         {
             Console.WriteLine("autofac demo");
-            TypeRegisterConsoles.AssemblyRun();
+            RegisterConsoles.TypeRun();
+            RegisterConsoles.AssemblyRun();
         }
     }
 }

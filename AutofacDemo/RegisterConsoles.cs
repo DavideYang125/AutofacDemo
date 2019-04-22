@@ -7,7 +7,7 @@ using System;
 
 namespace AutofacDemo.TypeRegister
 {
-    public class TypeRegisterConsoles
+    public class RegisterConsoles
     {
         /// <summary>
         /// 通过程序集自动注入
